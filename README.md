@@ -1,3 +1,5 @@
+# Just a temp copy from Sofa/Eloquence until the owner make it work with the new laravel version
+
 # Sofa/Eloquence
 
 [![Build Status](https://travis-ci.org/jarektkaczyk/eloquence.svg)](https://travis-ci.org/jarektkaczyk/eloquence) [![Downloads](https://poser.pugx.org/sofa/eloquence/downloads)](https://packagist.org/packages/sofa/eloquence) [![stable](https://poser.pugx.org/sofa/eloquence/v/stable.svg)](https://packagist.org/packages/sofa/eloquence)
